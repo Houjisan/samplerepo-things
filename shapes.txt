@@ -1,2 +1,4 @@
 circle
 oval
+triangle
+square
